@@ -1,5 +1,5 @@
 #include"../lib/unpipc.h"
 int main() {
-	printf("hello,world!");
+	err_sys("this is a test");
 	return 0;
 }
