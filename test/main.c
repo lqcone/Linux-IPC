@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include"../lib/unpipc.h"
 int main() {
 	printf("hello,world!");
+	return 0;
 }
